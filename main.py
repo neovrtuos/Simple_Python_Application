@@ -5,6 +5,7 @@ from addition import *
 from multiplication import *
 from menu import *
 from quit import *
+from gui import *
 
 def main():
     '''Main function that contains while loop'''
